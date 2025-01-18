@@ -1,0 +1,6 @@
+@ProductTaskWebAPI.Server_HostAddress = http://localhost:5093
+
+GET {{ProductTaskWebAPI.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
